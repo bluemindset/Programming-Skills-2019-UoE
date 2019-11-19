@@ -1,0 +1,14 @@
+Parameters are rho=1.000000, L=200, seed=1000
+rho = 1.000000, actual density = 1.000000
+Number of changes on loop 1 is 0
+Cluster DOES NOT percolate
+Opening file <map.dat>
+Writing the map inside the file map.dat file... Please wait
+Write successful.
+File closed
+Map has 0 clusters, maximum cluster size is 0
+Displaying all clusters
+Opening file <map.pgm>
+Writing data inside the map.pgm file...
+File closed
+Operation finished. 

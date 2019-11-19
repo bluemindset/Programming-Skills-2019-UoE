@@ -1,0 +1,8 @@
+#B159973 - Programming Skills - 2019
+# Ignore Directories and Files to GitHub 
+
+# Ignore Build Dir
+build/*
+
+# Ignore Executables
+bin/*

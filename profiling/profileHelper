@@ -1,0 +1,11 @@
+#Helper for profiling
+
+1 . HEAPPROFILE=/tmp/netheap bin/percolate -l 100 -m 10 -s 10 -d out.dat -p out.pgm -r 0.5 
+
+2 . sudo CPUPROFILE=perc.prof percolate -l 100 -m 10 -s 10 -d out.dat -p out.pgm -r 0.5; sudo google-pprof percolate perc.prof
+ls -la /tmp/
+
+3 . sudo HEAPPROFILE=perc.prof percolate -l 100 -m 10 -s 10 -d out.dat -p out.pgm -r 0.5; sudo google-pprof percolate perc.prof
+ls -la /tmp/
+
+4 . sudo make clean; sudo make
