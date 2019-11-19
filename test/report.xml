@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="3" time="28.737"><testcase classname="test.test_regression.TestRegression" file="test/test_regression.py" line="63" name="test_dat_file" time="9.57281589508"><system-out>========================================================
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="3" time="27.130"><testcase classname="test.test_regression.TestRegression" file="test/test_regression.py" line="80" name="test_dat_file" time="9.22767210007"><system-out>========================================================
 
 
 OUTPUT of command: make -C test/v1_instance_1
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_1&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_1&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_1&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_1&apos;
 
 
 ERRORS of command: make -C test/v1_instance_1
@@ -16,12 +16,12 @@ ERRORS of command: make -C test/v1_instance_1
 
 
 OUTPUT of command: make -C test/v1_instance_2
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_2&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_2&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_2&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_2&apos;
 
 
 ERRORS of command: make -C test/v1_instance_2
@@ -30,12 +30,12 @@ ERRORS of command: make -C test/v1_instance_2
 
 
 OUTPUT of command: make -C test/v1_instance_3
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_3&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_3&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_3&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_3&apos;
 
 
 ERRORS of command: make -C test/v1_instance_3
@@ -44,12 +44,12 @@ ERRORS of command: make -C test/v1_instance_3
 
 
 OUTPUT of command: make -C test/v1_instance_4
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_4&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_4&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_4&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_4&apos;
 
 
 ERRORS of command: make -C test/v1_instance_4
@@ -58,12 +58,12 @@ ERRORS of command: make -C test/v1_instance_4
 
 
 OUTPUT of command: make -C test/v1_instance_5
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_5&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_5&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_5&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_5&apos;
 
 
 ERRORS of command: make -C test/v1_instance_5
@@ -72,12 +72,12 @@ ERRORS of command: make -C test/v1_instance_5
 
 
 OUTPUT of command: make -C test/v1_instance_6
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_6&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_6&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_6&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_6&apos;
 
 
 ERRORS of command: make -C test/v1_instance_6
@@ -86,12 +86,12 @@ ERRORS of command: make -C test/v1_instance_6
 
 
 OUTPUT of command: make -C test/v1_instance_7
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_7&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_7&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_7&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_7&apos;
 
 
 ERRORS of command: make -C test/v1_instance_7
@@ -100,12 +100,12 @@ ERRORS of command: make -C test/v1_instance_7
 
 
 OUTPUT of command: make -C test/v1_instance_8
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_8&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_8&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_8&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_8&apos;
 
 
 ERRORS of command: make -C test/v1_instance_8
@@ -114,12 +114,12 @@ ERRORS of command: make -C test/v1_instance_8
 
 
 OUTPUT of command: make -C test/v1_instance_9
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_9&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_9&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_9&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_9&apos;
 
 
 ERRORS of command: make -C test/v1_instance_9
@@ -128,12 +128,12 @@ ERRORS of command: make -C test/v1_instance_9
 
 
 OUTPUT of command: make -C test/v1_instance_10
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_10&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_10&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_10&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_10&apos;
 
 
 ERRORS of command: make -C test/v1_instance_10
@@ -1340,7 +1340,7 @@ ERRORS of command: cd test/v1_instance_10 ; ./move.sh
 
 
 OUTPUT of command: make -C test/v2_instance_1
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_1&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_1&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -1352,7 +1352,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_1&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_1&apos;
 
 
 ERRORS of command: make -C test/v2_instance_1
@@ -1361,7 +1361,7 @@ ERRORS of command: make -C test/v2_instance_1
 
 
 OUTPUT of command: make -C test/v2_instance_2
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_2&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_2&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -1373,7 +1373,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_2&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_2&apos;
 
 
 ERRORS of command: make -C test/v2_instance_2
@@ -1382,7 +1382,7 @@ ERRORS of command: make -C test/v2_instance_2
 
 
 OUTPUT of command: make -C test/v2_instance_3
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_3&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_3&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -1394,7 +1394,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_3&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_3&apos;
 
 
 ERRORS of command: make -C test/v2_instance_3
@@ -1403,7 +1403,7 @@ ERRORS of command: make -C test/v2_instance_3
 
 
 OUTPUT of command: make -C test/v2_instance_4
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_4&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_4&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -1415,7 +1415,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_4&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_4&apos;
 
 
 ERRORS of command: make -C test/v2_instance_4
@@ -1424,7 +1424,7 @@ ERRORS of command: make -C test/v2_instance_4
 
 
 OUTPUT of command: make -C test/v2_instance_5
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_5&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_5&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -1436,7 +1436,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_5&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_5&apos;
 
 
 ERRORS of command: make -C test/v2_instance_5
@@ -1445,7 +1445,7 @@ ERRORS of command: make -C test/v2_instance_5
 
 
 OUTPUT of command: make -C test/v2_instance_6
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_6&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_6&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -1457,7 +1457,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_6&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_6&apos;
 
 
 ERRORS of command: make -C test/v2_instance_6
@@ -1466,7 +1466,7 @@ ERRORS of command: make -C test/v2_instance_6
 
 
 OUTPUT of command: make -C test/v2_instance_7
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_7&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_7&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -1478,7 +1478,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_7&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_7&apos;
 
 
 ERRORS of command: make -C test/v2_instance_7
@@ -1487,7 +1487,7 @@ ERRORS of command: make -C test/v2_instance_7
 
 
 OUTPUT of command: make -C test/v2_instance_8
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_8&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_8&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -1499,7 +1499,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_8&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_8&apos;
 
 
 ERRORS of command: make -C test/v2_instance_8
@@ -1508,7 +1508,7 @@ ERRORS of command: make -C test/v2_instance_8
 
 
 OUTPUT of command: make -C test/v2_instance_9
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_9&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_9&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -1520,7 +1520,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_9&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_9&apos;
 
 
 ERRORS of command: make -C test/v2_instance_9
@@ -1529,7 +1529,7 @@ ERRORS of command: make -C test/v2_instance_9
 
 
 OUTPUT of command: make -C test/v2_instance_10
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_10&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_10&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -1541,7 +1541,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_10&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_10&apos;
 
 
 ERRORS of command: make -C test/v2_instance_10
@@ -2838,10 +2838,10 @@ mv: cannot stat &apos;bin/stdout&apos;: No such file or directory
 
 
 OUTPUT of command: make clean -C test/v1_instance_1
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_1&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_1&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_1&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_1&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_1
@@ -2850,10 +2850,10 @@ ERRORS of command: make clean -C test/v1_instance_1
 
 
 OUTPUT of command: make clean -C test/v1_instance_2
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_2&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_2&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_2&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_2&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_2
@@ -2862,10 +2862,10 @@ ERRORS of command: make clean -C test/v1_instance_2
 
 
 OUTPUT of command: make clean -C test/v1_instance_3
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_3&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_3&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_3&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_3&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_3
@@ -2874,10 +2874,10 @@ ERRORS of command: make clean -C test/v1_instance_3
 
 
 OUTPUT of command: make clean -C test/v1_instance_4
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_4&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_4&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_4&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_4&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_4
@@ -2886,10 +2886,10 @@ ERRORS of command: make clean -C test/v1_instance_4
 
 
 OUTPUT of command: make clean -C test/v1_instance_5
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_5&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_5&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_5&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_5&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_5
@@ -2898,10 +2898,10 @@ ERRORS of command: make clean -C test/v1_instance_5
 
 
 OUTPUT of command: make clean -C test/v1_instance_6
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_6&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_6&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_6&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_6&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_6
@@ -2910,10 +2910,10 @@ ERRORS of command: make clean -C test/v1_instance_6
 
 
 OUTPUT of command: make clean -C test/v1_instance_7
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_7&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_7&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_7&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_7&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_7
@@ -2922,10 +2922,10 @@ ERRORS of command: make clean -C test/v1_instance_7
 
 
 OUTPUT of command: make clean -C test/v1_instance_8
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_8&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_8&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_8&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_8&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_8
@@ -2934,10 +2934,10 @@ ERRORS of command: make clean -C test/v1_instance_8
 
 
 OUTPUT of command: make clean -C test/v1_instance_9
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_9&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_9&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_9&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_9&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_9
@@ -2946,10 +2946,10 @@ ERRORS of command: make clean -C test/v1_instance_9
 
 
 OUTPUT of command: make clean -C test/v1_instance_10
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_10&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_10&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_10&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_10&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_10
@@ -2958,12 +2958,12 @@ ERRORS of command: make clean -C test/v1_instance_10
 
 
 OUTPUT of command: make clean -C test/v2_instance_1
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_1&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_1&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_1&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_1&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_1
@@ -2972,12 +2972,12 @@ ERRORS of command: make clean -C test/v2_instance_1
 
 
 OUTPUT of command: make clean -C test/v2_instance_2
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_2&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_2&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_2&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_2&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_2
@@ -2986,12 +2986,12 @@ ERRORS of command: make clean -C test/v2_instance_2
 
 
 OUTPUT of command: make clean -C test/v2_instance_3
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_3&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_3&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_3&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_3&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_3
@@ -3000,12 +3000,12 @@ ERRORS of command: make clean -C test/v2_instance_3
 
 
 OUTPUT of command: make clean -C test/v2_instance_4
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_4&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_4&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_4&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_4&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_4
@@ -3014,12 +3014,12 @@ ERRORS of command: make clean -C test/v2_instance_4
 
 
 OUTPUT of command: make clean -C test/v2_instance_5
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_5&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_5&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_5&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_5&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_5
@@ -3028,12 +3028,12 @@ ERRORS of command: make clean -C test/v2_instance_5
 
 
 OUTPUT of command: make clean -C test/v2_instance_6
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_6&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_6&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_6&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_6&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_6
@@ -3042,12 +3042,12 @@ ERRORS of command: make clean -C test/v2_instance_6
 
 
 OUTPUT of command: make clean -C test/v2_instance_7
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_7&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_7&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_7&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_7&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_7
@@ -3056,12 +3056,12 @@ ERRORS of command: make clean -C test/v2_instance_7
 
 
 OUTPUT of command: make clean -C test/v2_instance_8
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_8&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_8&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_8&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_8&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_8
@@ -3070,12 +3070,12 @@ ERRORS of command: make clean -C test/v2_instance_8
 
 
 OUTPUT of command: make clean -C test/v2_instance_9
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_9&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_9&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_9&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_9&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_9
@@ -3084,26 +3084,26 @@ ERRORS of command: make clean -C test/v2_instance_9
 
 
 OUTPUT of command: make clean -C test/v2_instance_10
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_10&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_10&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_10&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_10&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_10
 
-</system-out></testcase><testcase classname="test.test_regression.TestRegression" file="test/test_regression.py" line="51" name="test_pgm_file" time="9.55448269844"><system-out>========================================================
+</system-out></testcase><testcase classname="test.test_regression.TestRegression" file="test/test_regression.py" line="66" name="test_pgm_file" time="9.3369808197"><system-out>========================================================
 
 
 OUTPUT of command: make -C test/v1_instance_1
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_1&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_1&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_1&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_1&apos;
 
 
 ERRORS of command: make -C test/v1_instance_1
@@ -3112,12 +3112,12 @@ ERRORS of command: make -C test/v1_instance_1
 
 
 OUTPUT of command: make -C test/v1_instance_2
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_2&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_2&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_2&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_2&apos;
 
 
 ERRORS of command: make -C test/v1_instance_2
@@ -3126,12 +3126,12 @@ ERRORS of command: make -C test/v1_instance_2
 
 
 OUTPUT of command: make -C test/v1_instance_3
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_3&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_3&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_3&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_3&apos;
 
 
 ERRORS of command: make -C test/v1_instance_3
@@ -3140,12 +3140,12 @@ ERRORS of command: make -C test/v1_instance_3
 
 
 OUTPUT of command: make -C test/v1_instance_4
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_4&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_4&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_4&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_4&apos;
 
 
 ERRORS of command: make -C test/v1_instance_4
@@ -3154,12 +3154,12 @@ ERRORS of command: make -C test/v1_instance_4
 
 
 OUTPUT of command: make -C test/v1_instance_5
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_5&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_5&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_5&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_5&apos;
 
 
 ERRORS of command: make -C test/v1_instance_5
@@ -3168,12 +3168,12 @@ ERRORS of command: make -C test/v1_instance_5
 
 
 OUTPUT of command: make -C test/v1_instance_6
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_6&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_6&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_6&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_6&apos;
 
 
 ERRORS of command: make -C test/v1_instance_6
@@ -3182,12 +3182,12 @@ ERRORS of command: make -C test/v1_instance_6
 
 
 OUTPUT of command: make -C test/v1_instance_7
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_7&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_7&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_7&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_7&apos;
 
 
 ERRORS of command: make -C test/v1_instance_7
@@ -3196,12 +3196,12 @@ ERRORS of command: make -C test/v1_instance_7
 
 
 OUTPUT of command: make -C test/v1_instance_8
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_8&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_8&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_8&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_8&apos;
 
 
 ERRORS of command: make -C test/v1_instance_8
@@ -3210,12 +3210,12 @@ ERRORS of command: make -C test/v1_instance_8
 
 
 OUTPUT of command: make -C test/v1_instance_9
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_9&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_9&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_9&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_9&apos;
 
 
 ERRORS of command: make -C test/v1_instance_9
@@ -3224,12 +3224,12 @@ ERRORS of command: make -C test/v1_instance_9
 
 
 OUTPUT of command: make -C test/v1_instance_10
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_10&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_10&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_10&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_10&apos;
 
 
 ERRORS of command: make -C test/v1_instance_10
@@ -4436,7 +4436,7 @@ ERRORS of command: cd test/v1_instance_10 ; ./move.sh
 
 
 OUTPUT of command: make -C test/v2_instance_1
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_1&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_1&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -4448,7 +4448,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_1&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_1&apos;
 
 
 ERRORS of command: make -C test/v2_instance_1
@@ -4457,7 +4457,7 @@ ERRORS of command: make -C test/v2_instance_1
 
 
 OUTPUT of command: make -C test/v2_instance_2
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_2&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_2&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -4469,7 +4469,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_2&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_2&apos;
 
 
 ERRORS of command: make -C test/v2_instance_2
@@ -4478,7 +4478,7 @@ ERRORS of command: make -C test/v2_instance_2
 
 
 OUTPUT of command: make -C test/v2_instance_3
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_3&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_3&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -4490,7 +4490,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_3&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_3&apos;
 
 
 ERRORS of command: make -C test/v2_instance_3
@@ -4499,7 +4499,7 @@ ERRORS of command: make -C test/v2_instance_3
 
 
 OUTPUT of command: make -C test/v2_instance_4
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_4&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_4&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -4511,7 +4511,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_4&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_4&apos;
 
 
 ERRORS of command: make -C test/v2_instance_4
@@ -4520,7 +4520,7 @@ ERRORS of command: make -C test/v2_instance_4
 
 
 OUTPUT of command: make -C test/v2_instance_5
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_5&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_5&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -4532,7 +4532,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_5&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_5&apos;
 
 
 ERRORS of command: make -C test/v2_instance_5
@@ -4541,7 +4541,7 @@ ERRORS of command: make -C test/v2_instance_5
 
 
 OUTPUT of command: make -C test/v2_instance_6
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_6&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_6&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -4553,7 +4553,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_6&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_6&apos;
 
 
 ERRORS of command: make -C test/v2_instance_6
@@ -4562,7 +4562,7 @@ ERRORS of command: make -C test/v2_instance_6
 
 
 OUTPUT of command: make -C test/v2_instance_7
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_7&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_7&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -4574,7 +4574,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_7&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_7&apos;
 
 
 ERRORS of command: make -C test/v2_instance_7
@@ -4583,7 +4583,7 @@ ERRORS of command: make -C test/v2_instance_7
 
 
 OUTPUT of command: make -C test/v2_instance_8
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_8&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_8&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -4595,7 +4595,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_8&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_8&apos;
 
 
 ERRORS of command: make -C test/v2_instance_8
@@ -4604,7 +4604,7 @@ ERRORS of command: make -C test/v2_instance_8
 
 
 OUTPUT of command: make -C test/v2_instance_9
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_9&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_9&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -4616,7 +4616,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_9&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_9&apos;
 
 
 ERRORS of command: make -C test/v2_instance_9
@@ -4625,7 +4625,7 @@ ERRORS of command: make -C test/v2_instance_9
 
 
 OUTPUT of command: make -C test/v2_instance_10
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_10&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_10&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -4637,7 +4637,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_10&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_10&apos;
 
 
 ERRORS of command: make -C test/v2_instance_10
@@ -5934,10 +5934,10 @@ mv: cannot stat &apos;bin/stdout&apos;: No such file or directory
 
 
 OUTPUT of command: make clean -C test/v1_instance_1
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_1&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_1&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_1&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_1&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_1
@@ -5946,10 +5946,10 @@ ERRORS of command: make clean -C test/v1_instance_1
 
 
 OUTPUT of command: make clean -C test/v1_instance_2
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_2&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_2&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_2&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_2&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_2
@@ -5958,10 +5958,10 @@ ERRORS of command: make clean -C test/v1_instance_2
 
 
 OUTPUT of command: make clean -C test/v1_instance_3
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_3&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_3&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_3&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_3&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_3
@@ -5970,10 +5970,10 @@ ERRORS of command: make clean -C test/v1_instance_3
 
 
 OUTPUT of command: make clean -C test/v1_instance_4
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_4&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_4&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_4&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_4&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_4
@@ -5982,10 +5982,10 @@ ERRORS of command: make clean -C test/v1_instance_4
 
 
 OUTPUT of command: make clean -C test/v1_instance_5
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_5&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_5&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_5&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_5&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_5
@@ -5994,10 +5994,10 @@ ERRORS of command: make clean -C test/v1_instance_5
 
 
 OUTPUT of command: make clean -C test/v1_instance_6
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_6&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_6&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_6&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_6&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_6
@@ -6006,10 +6006,10 @@ ERRORS of command: make clean -C test/v1_instance_6
 
 
 OUTPUT of command: make clean -C test/v1_instance_7
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_7&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_7&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_7&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_7&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_7
@@ -6018,10 +6018,10 @@ ERRORS of command: make clean -C test/v1_instance_7
 
 
 OUTPUT of command: make clean -C test/v1_instance_8
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_8&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_8&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_8&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_8&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_8
@@ -6030,10 +6030,10 @@ ERRORS of command: make clean -C test/v1_instance_8
 
 
 OUTPUT of command: make clean -C test/v1_instance_9
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_9&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_9&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_9&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_9&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_9
@@ -6042,10 +6042,10 @@ ERRORS of command: make clean -C test/v1_instance_9
 
 
 OUTPUT of command: make clean -C test/v1_instance_10
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_10&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_10&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_10&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_10&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_10
@@ -6054,12 +6054,12 @@ ERRORS of command: make clean -C test/v1_instance_10
 
 
 OUTPUT of command: make clean -C test/v2_instance_1
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_1&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_1&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_1&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_1&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_1
@@ -6068,12 +6068,12 @@ ERRORS of command: make clean -C test/v2_instance_1
 
 
 OUTPUT of command: make clean -C test/v2_instance_2
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_2&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_2&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_2&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_2&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_2
@@ -6082,12 +6082,12 @@ ERRORS of command: make clean -C test/v2_instance_2
 
 
 OUTPUT of command: make clean -C test/v2_instance_3
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_3&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_3&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_3&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_3&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_3
@@ -6096,12 +6096,12 @@ ERRORS of command: make clean -C test/v2_instance_3
 
 
 OUTPUT of command: make clean -C test/v2_instance_4
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_4&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_4&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_4&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_4&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_4
@@ -6110,12 +6110,12 @@ ERRORS of command: make clean -C test/v2_instance_4
 
 
 OUTPUT of command: make clean -C test/v2_instance_5
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_5&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_5&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_5&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_5&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_5
@@ -6124,12 +6124,12 @@ ERRORS of command: make clean -C test/v2_instance_5
 
 
 OUTPUT of command: make clean -C test/v2_instance_6
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_6&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_6&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_6&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_6&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_6
@@ -6138,12 +6138,12 @@ ERRORS of command: make clean -C test/v2_instance_6
 
 
 OUTPUT of command: make clean -C test/v2_instance_7
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_7&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_7&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_7&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_7&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_7
@@ -6152,12 +6152,12 @@ ERRORS of command: make clean -C test/v2_instance_7
 
 
 OUTPUT of command: make clean -C test/v2_instance_8
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_8&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_8&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_8&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_8&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_8
@@ -6166,12 +6166,12 @@ ERRORS of command: make clean -C test/v2_instance_8
 
 
 OUTPUT of command: make clean -C test/v2_instance_9
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_9&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_9&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_9&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_9&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_9
@@ -6180,26 +6180,26 @@ ERRORS of command: make clean -C test/v2_instance_9
 
 
 OUTPUT of command: make clean -C test/v2_instance_10
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_10&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_10&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_10&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_10&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_10
 
-</system-out></testcase><testcase classname="test.test_regression.TestRegression" file="test/test_regression.py" line="40" name="test_stdout_file" time="9.58997631073"><system-out>========================================================
+</system-out></testcase><testcase classname="test.test_regression.TestRegression" file="test/test_regression.py" line="52" name="test_stdout_file" time="8.54665398598"><system-out>========================================================
 
 
 OUTPUT of command: make -C test/v1_instance_1
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_1&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_1&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_1&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_1&apos;
 
 
 ERRORS of command: make -C test/v1_instance_1
@@ -6208,12 +6208,12 @@ ERRORS of command: make -C test/v1_instance_1
 
 
 OUTPUT of command: make -C test/v1_instance_2
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_2&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_2&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_2&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_2&apos;
 
 
 ERRORS of command: make -C test/v1_instance_2
@@ -6222,12 +6222,12 @@ ERRORS of command: make -C test/v1_instance_2
 
 
 OUTPUT of command: make -C test/v1_instance_3
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_3&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_3&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_3&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_3&apos;
 
 
 ERRORS of command: make -C test/v1_instance_3
@@ -6236,12 +6236,12 @@ ERRORS of command: make -C test/v1_instance_3
 
 
 OUTPUT of command: make -C test/v1_instance_4
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_4&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_4&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_4&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_4&apos;
 
 
 ERRORS of command: make -C test/v1_instance_4
@@ -6250,12 +6250,12 @@ ERRORS of command: make -C test/v1_instance_4
 
 
 OUTPUT of command: make -C test/v1_instance_5
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_5&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_5&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_5&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_5&apos;
 
 
 ERRORS of command: make -C test/v1_instance_5
@@ -6264,12 +6264,12 @@ ERRORS of command: make -C test/v1_instance_5
 
 
 OUTPUT of command: make -C test/v1_instance_6
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_6&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_6&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_6&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_6&apos;
 
 
 ERRORS of command: make -C test/v1_instance_6
@@ -6278,12 +6278,12 @@ ERRORS of command: make -C test/v1_instance_6
 
 
 OUTPUT of command: make -C test/v1_instance_7
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_7&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_7&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_7&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_7&apos;
 
 
 ERRORS of command: make -C test/v1_instance_7
@@ -6292,12 +6292,12 @@ ERRORS of command: make -C test/v1_instance_7
 
 
 OUTPUT of command: make -C test/v1_instance_8
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_8&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_8&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_8&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_8&apos;
 
 
 ERRORS of command: make -C test/v1_instance_8
@@ -6306,12 +6306,12 @@ ERRORS of command: make -C test/v1_instance_8
 
 
 OUTPUT of command: make -C test/v1_instance_9
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_9&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_9&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_9&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_9&apos;
 
 
 ERRORS of command: make -C test/v1_instance_9
@@ -6320,12 +6320,12 @@ ERRORS of command: make -C test/v1_instance_9
 
 
 OUTPUT of command: make -C test/v1_instance_10
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_10&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_10&apos;
 gcc  -c arralloc.c -o arralloc.o
 gcc  -c percolate.c -o percolate.o
 gcc  -c uni.c -o uni.o
 gcc  -o percolate arralloc.o percolate.o uni.o -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_10&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_10&apos;
 
 
 ERRORS of command: make -C test/v1_instance_10
@@ -7532,7 +7532,7 @@ ERRORS of command: cd test/v1_instance_10 ; ./move.sh
 
 
 OUTPUT of command: make -C test/v2_instance_1
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_1&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_1&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -7544,7 +7544,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_1&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_1&apos;
 
 
 ERRORS of command: make -C test/v2_instance_1
@@ -7553,7 +7553,7 @@ ERRORS of command: make -C test/v2_instance_1
 
 
 OUTPUT of command: make -C test/v2_instance_2
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_2&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_2&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -7565,7 +7565,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_2&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_2&apos;
 
 
 ERRORS of command: make -C test/v2_instance_2
@@ -7574,7 +7574,7 @@ ERRORS of command: make -C test/v2_instance_2
 
 
 OUTPUT of command: make -C test/v2_instance_3
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_3&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_3&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -7586,7 +7586,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_3&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_3&apos;
 
 
 ERRORS of command: make -C test/v2_instance_3
@@ -7595,7 +7595,7 @@ ERRORS of command: make -C test/v2_instance_3
 
 
 OUTPUT of command: make -C test/v2_instance_4
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_4&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_4&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -7607,7 +7607,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_4&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_4&apos;
 
 
 ERRORS of command: make -C test/v2_instance_4
@@ -7616,7 +7616,7 @@ ERRORS of command: make -C test/v2_instance_4
 
 
 OUTPUT of command: make -C test/v2_instance_5
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_5&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_5&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -7628,7 +7628,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_5&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_5&apos;
 
 
 ERRORS of command: make -C test/v2_instance_5
@@ -7637,7 +7637,7 @@ ERRORS of command: make -C test/v2_instance_5
 
 
 OUTPUT of command: make -C test/v2_instance_6
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_6&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_6&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -7649,7 +7649,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_6&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_6&apos;
 
 
 ERRORS of command: make -C test/v2_instance_6
@@ -7658,7 +7658,7 @@ ERRORS of command: make -C test/v2_instance_6
 
 
 OUTPUT of command: make -C test/v2_instance_7
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_7&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_7&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -7670,7 +7670,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_7&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_7&apos;
 
 
 ERRORS of command: make -C test/v2_instance_7
@@ -7679,7 +7679,7 @@ ERRORS of command: make -C test/v2_instance_7
 
 
 OUTPUT of command: make -C test/v2_instance_8
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_8&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_8&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -7691,7 +7691,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_8&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_8&apos;
 
 
 ERRORS of command: make -C test/v2_instance_8
@@ -7700,7 +7700,7 @@ ERRORS of command: make -C test/v2_instance_8
 
 
 OUTPUT of command: make -C test/v2_instance_9
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_9&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_9&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -7712,7 +7712,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_9&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_9&apos;
 
 
 ERRORS of command: make -C test/v2_instance_9
@@ -7721,7 +7721,7 @@ ERRORS of command: make -C test/v2_instance_9
 
 
 OUTPUT of command: make -C test/v2_instance_10
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_10&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_10&apos;
 gcc -g -Iinclude/ -c src/arralloc.c -o obj/arralloc.o
 gcc -g -Iinclude/ -c src/allocs.c -o obj/allocs.o
 gcc -g -Iinclude/ -c src/main.c -o obj/main.o
@@ -7733,7 +7733,7 @@ gcc -g -Iinclude/ -c src/validation.c -o obj/validation.o
 gcc -g -Iinclude/ -c src/map.c -o obj/map.o
 gcc -g -Iinclude/ -c src/uni.c -o obj/uni.o
 gcc -g obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o -o bin/percolate -lm
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_10&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_10&apos;
 
 
 ERRORS of command: make -C test/v2_instance_10
@@ -9030,10 +9030,10 @@ mv: cannot stat &apos;bin/stdout&apos;: No such file or directory
 
 
 OUTPUT of command: make clean -C test/v1_instance_1
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_1&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_1&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_1&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_1&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_1
@@ -9042,10 +9042,10 @@ ERRORS of command: make clean -C test/v1_instance_1
 
 
 OUTPUT of command: make clean -C test/v1_instance_2
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_2&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_2&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_2&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_2&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_2
@@ -9054,10 +9054,10 @@ ERRORS of command: make clean -C test/v1_instance_2
 
 
 OUTPUT of command: make clean -C test/v1_instance_3
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_3&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_3&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_3&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_3&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_3
@@ -9066,10 +9066,10 @@ ERRORS of command: make clean -C test/v1_instance_3
 
 
 OUTPUT of command: make clean -C test/v1_instance_4
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_4&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_4&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_4&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_4&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_4
@@ -9078,10 +9078,10 @@ ERRORS of command: make clean -C test/v1_instance_4
 
 
 OUTPUT of command: make clean -C test/v1_instance_5
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_5&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_5&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_5&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_5&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_5
@@ -9090,10 +9090,10 @@ ERRORS of command: make clean -C test/v1_instance_5
 
 
 OUTPUT of command: make clean -C test/v1_instance_6
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_6&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_6&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_6&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_6&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_6
@@ -9102,10 +9102,10 @@ ERRORS of command: make clean -C test/v1_instance_6
 
 
 OUTPUT of command: make clean -C test/v1_instance_7
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_7&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_7&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_7&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_7&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_7
@@ -9114,10 +9114,10 @@ ERRORS of command: make clean -C test/v1_instance_7
 
 
 OUTPUT of command: make clean -C test/v1_instance_8
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_8&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_8&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_8&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_8&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_8
@@ -9126,10 +9126,10 @@ ERRORS of command: make clean -C test/v1_instance_8
 
 
 OUTPUT of command: make clean -C test/v1_instance_9
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_9&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_9&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_9&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_9&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_9
@@ -9138,10 +9138,10 @@ ERRORS of command: make clean -C test/v1_instance_9
 
 
 OUTPUT of command: make clean -C test/v1_instance_10
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_10&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_10&apos;
 rm -f arralloc.o percolate.o uni.o percolate   
 #rm -rf output/
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v1_instance_10&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v1_instance_10&apos;
 
 
 ERRORS of command: make clean -C test/v1_instance_10
@@ -9150,12 +9150,12 @@ ERRORS of command: make clean -C test/v1_instance_10
 
 
 OUTPUT of command: make clean -C test/v2_instance_1
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_1&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_1&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_1&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_1&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_1
@@ -9164,12 +9164,12 @@ ERRORS of command: make clean -C test/v2_instance_1
 
 
 OUTPUT of command: make clean -C test/v2_instance_2
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_2&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_2&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_2&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_2&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_2
@@ -9178,12 +9178,12 @@ ERRORS of command: make clean -C test/v2_instance_2
 
 
 OUTPUT of command: make clean -C test/v2_instance_3
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_3&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_3&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_3&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_3&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_3
@@ -9192,12 +9192,12 @@ ERRORS of command: make clean -C test/v2_instance_3
 
 
 OUTPUT of command: make clean -C test/v2_instance_4
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_4&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_4&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_4&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_4&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_4
@@ -9206,12 +9206,12 @@ ERRORS of command: make clean -C test/v2_instance_4
 
 
 OUTPUT of command: make clean -C test/v2_instance_5
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_5&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_5&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_5&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_5&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_5
@@ -9220,12 +9220,12 @@ ERRORS of command: make clean -C test/v2_instance_5
 
 
 OUTPUT of command: make clean -C test/v2_instance_6
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_6&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_6&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_6&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_6&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_6
@@ -9234,12 +9234,12 @@ ERRORS of command: make clean -C test/v2_instance_6
 
 
 OUTPUT of command: make clean -C test/v2_instance_7
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_7&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_7&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_7&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_7&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_7
@@ -9248,12 +9248,12 @@ ERRORS of command: make clean -C test/v2_instance_7
 
 
 OUTPUT of command: make clean -C test/v2_instance_8
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_8&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_8&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_8&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_8&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_8
@@ -9262,12 +9262,12 @@ ERRORS of command: make clean -C test/v2_instance_8
 
 
 OUTPUT of command: make clean -C test/v2_instance_9
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_9&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_9&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_9&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_9&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_9
@@ -9276,12 +9276,12 @@ ERRORS of command: make clean -C test/v2_instance_9
 
 
 OUTPUT of command: make clean -C test/v2_instance_10
-make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_10&apos;
+make: Entering directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_10&apos;
 rm -f obj/arralloc.o obj/allocs.o obj/main.o obj/file.o obj/cluster.o obj/userInput.o obj/configuration.o obj/validation.o obj/map.o obj/uni.o
 rm -f bin/percolate
 rm -f bin/*.pgm
 rm -f bin/*.dat
-make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment1_GOOD/test/v2_instance_10&apos;
+make: Leaving directory &apos;/home/blue/Desktop/Edinburgh High Perfomance With Data Science/Programming Skills/B159973-PS-Assessment2/test/v2_instance_10&apos;
 
 
 ERRORS of command: make clean -C test/v2_instance_10

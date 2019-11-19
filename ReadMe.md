@@ -90,8 +90,10 @@ It is very **important** to enter the parameters in the corect form. The program
 5. **DAT filename**: A valid filename without these characters `%^!~|@*><`. It must also end with `.dat` 
 
 6. **PGM filename**: A valid filename without these characters` %^!~|@*><`. It must also end with `.pgm` 
+
 ## Outputs
 The program outputs a .**dat file** and **.pgm file** inside the `\bin`folder. The **pgm file** is an image of the clusters and you can see the percolation.
+
 To display the **pgm file** run: 
 ```sh
 $display  filename.pgm
@@ -100,6 +102,7 @@ To see the contents of **dat file** run
 ```sh
 $cat filename.dat
 ```
+
 ## Regression Test
 
 Regression Test was implemented using regression tests package of Python ( ![python test framework](https://docs.python.org/2/library/test.html#module-test) )
@@ -107,8 +110,8 @@ It is crucial to mention that for this particular test, we assume that Version 1
 Moreover, we assume that the new refactored version is the one that was given back to the examiner. 
 We do not assume that Version 2 perseveres **functional correctness** and therefore its output must be compared for equality with Version 1. 
 The particular regression test does not compare its output by itself countless times on only one version but instead uses both versions. 
-Furthermore, the test is built in a way where it could be used for **future versions** because essential functions in the library of Regression test 
-can collect output via a configuration input file as the new version use.
+Furthermore, the test is built in a way where it could be used for testing **future versions** because essential functions in the library of regression test 
+can collect output via a configuration input file as the refactored version uses.
 
 ### Choice of Test
 Test cases are properly selected and are focus on quality rathen than quantity. **Extreme** and **average test cases** are included:
@@ -127,9 +130,9 @@ Test cases are properly selected and are focus on quality rathen than quantity. 
 |Seed  			| 5       		|555			|112           |3333         |9999999
 |Max Clusters:  | 100  			|5				|10            |100          |1
 
-Extreme case is composed of relatively small or huge grid size , minisulcar or maximum RHO, any parameter that is close to boundary is checked.
-Average cases inlclude cases like instance 1 which was the inital parameters as the program was handed to students.
-The following extreme case was successful, but it took about 10-15 minutes to test, and therefore it is not included in the 
+Extreme cases are composed of relatively small or huge grid size, low or high RHO, any parameter that is close to the boundary is checked.
+Average cases include cases like instance 1 which was the initial parameters as the program was handed to students.
+The following extreme case was successful, but it took about 10-15 minutes to complete, and therefore it is not included in the 
 current test case for the convenience of the examiner to run the tests instantly:
 
 |				| Instance 11 	|
@@ -140,9 +143,10 @@ current test case for the convenience of the examiner to run the tests instantly
 |Max Clusters:  | 100  			|
 
 
-
 #### Composition of the Regression Test
+
 The testing structure has three components: 
+
 1. The python unit test `test_regression.py` which is found in `\test` folder
 2. A helper library, `regression.py` which peforms compilation and execution of the above instances, along with output gathering. It is located under `\lib` folder.
 3. A batch script, `regression.sh` that calls the unit test with the helper library. It is located in the `root` directory.
@@ -150,7 +154,7 @@ The testing structure has three components:
 
 #### Run the Regression Test
 
-Perform these commands to run the regression test in the `root` directory. The test takes on average about 30 seconds to compile because for each instance percolate must run.
+Perform these commands to run the regression test in the `root` directory. The test takes on average about 30 seconds to complete because each instance must run.
 
 ```sh
 $ chmod +x regression.sh
@@ -166,8 +170,13 @@ An overall example can be shown here:
 
 ![aggregated output](img/output_all.png)
 
-After that it filters them, so that only the numbers that are contained within them are collected 
+After that it filters them, so that only the numbers that are contained within them are collected: 
 
 ![serial output](img/output.png)
 
-Finally it asserts them as two different variables using assertEqual(a, b) which check that a == b ( [unittest](https://docs.python.org/3/library/unittest.html) ).
+Finally it asserts them as two different variables using assertEqual(a, b) which checks that a == b ( [unittest](https://docs.python.org/3/library/unittest.html) ).
+
+#### Report
+
+The regression test generates a report that is under `test` with the name `report.xml`. The report shows that
+the regression test is successful at the first line and prints the standard output of the executions of each instance. 

@@ -1,16 +1,26 @@
+#######################################################
+ # @Author: B159973
+ # @Date:   19/11/2019
+ # @Course: Programming Skills - 2019
+ # @University of Edinburgh
+#######################################################
+
+#########################Libraries#####################
 import unittest
 from regression import Reg_Lib
 from test import support
 import sys
+#######################################################
 
-
-#Regression tests class 
-
+#Regression test class 
+#	Test Regression:
+#	1. Call compile, run and clean functions from regression library 
+#	3. Assert for equality the outputs of each instance of Version 1 & 2
 class TestRegression(unittest.TestCase):
 	
 	"""
 	Compile every testcase for Version 1 and Version 2
-	setUp func: https://docs.python.org/3.4/library/test.html
+	setUp doc: https://docs.python.org/3.4/library/test.html
 	"""
 	def setUp(self):
 		reg_lib = Reg_Lib()
@@ -26,7 +36,7 @@ class TestRegression(unittest.TestCase):
 
 	"""
 	Clean up every testcase for Version 1 and Version 2
-	tearDown func: https://docs.python.org/3.4/library/test.html
+	tearDown doc: https://docs.python.org/3.4/library/test.html
 	"""
    	def tearDown(self):
 		reg_lib = Reg_Lib()
@@ -37,7 +47,9 @@ class TestRegression(unittest.TestCase):
 		#Clean object, executables of all the instances of version 1
 		reg_lib.clean_v2()
 	   	   
-
+	"""
+	Assert for equality the standard screen output
+	"""
 	def test_stdout_file(self):
 		regression = Reg_Lib()
 		
@@ -49,6 +61,9 @@ class TestRegression(unittest.TestCase):
 			self.assertEqual(regression.get_output(stdout_v1),
 								regression.get_output(stdout_v2)
 								,msg="Version 1 and Version 2 standard (screen) output are not the same!")
+	"""
+	Assert for equality the pgm file
+	"""		
 	def test_pgm_file(self):
 		regression = Reg_Lib()
 		
@@ -60,7 +75,9 @@ class TestRegression(unittest.TestCase):
 			self.assertEqual(regression.get_output(pgm_file_v1),
 								regression.get_output(pgm_file_v2)
 								,msg="Version 1 and Version 2 pgm file output are not the same!")
-	
+	"""
+	Assert for equality the dat file
+	"""
 	def test_dat_file(self):
 		regression = Reg_Lib()
 		
@@ -73,7 +90,5 @@ class TestRegression(unittest.TestCase):
 								regression.get_output(dat_file_v2)
 								,msg="Version 1 and Version 2 dat file output are not the same!")
 							
-
-
 if __name__ == '__main__': 
 	unittest.main()
