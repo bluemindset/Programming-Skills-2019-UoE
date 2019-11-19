@@ -162,6 +162,12 @@ The current regression test, takes the output below from each instance:
 2. A dat file
 3. Screen output
 
-An overall example can be shown here:  ![aggregated output](img/output_all.png)
-After that it filters them, so that only the numbers that are contained within them are collected ( ![serial output](img/output.png) )
+An overall example can be shown here: 
+
+![aggregated output](img/output_all.png)
+
+After that it filters them, so that only the numbers that are contained within them are collected 
+
+![serial output](img/output.png)
+
 Finally it asserts them as two different variables using assertEqual(a, b) which check that a == b ( [unittest](https://docs.python.org/3/library/unittest.html) ).
