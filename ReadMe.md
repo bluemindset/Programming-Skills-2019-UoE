@@ -113,7 +113,7 @@ The particular regression test does not compare its output by itself countless t
 Furthermore, the test is built in a way where it could be used for testing **future versions** because essential functions in the library of regression test 
 can collect output via a configuration input file as the refactored version uses.
 
-### Choice of Test
+### Choices of Tests
 Test cases are properly selected and are focus on quality rathen than quantity. **Extreme** and **average test cases** are included:
 
 |				| Instance 1 	| Instance 2   	|  Instance 3  |  Instance 4 |  Instance 5 |
@@ -143,7 +143,7 @@ current test case for the convenience of the examiner to run the tests instantly
 |Max Clusters:  | 100  			|
 
 
-#### Composition of the Regression Test
+### Composition of the Regression Test
 
 The testing structure has three components: 
 
@@ -152,18 +152,18 @@ The testing structure has three components:
 3. A batch script, `regression.sh` that calls the unit test with the helper library. It is located in the `root` directory.
 4. The above test cases are found in `test` folder under the same instance name in Version 1 & 2. 
 
-#### Dependencies
+### Dependencies
 The test need the following packages in order to run properly:
-##### Python 2.7+
+#### Python 2.7+
 Python 2.7 is needed in order to run properly. Documentation on installing can be found here 
 ![Python Docs](https://docs.pytest.org/en/latest/)
-##### pytest
+#### pytest
 The pytest framework makes it easy to write small tests on Python. 
 ![pytest Docs](https://docs.pytest.org/en/latest/)
-##### py
+#### py
 The py lib is a Python development support library. 
 ![py Docs](https://pypi.org/project/py/)
-##### pluggy
+#### pluggy
 This is the core framework used by the pytest, tox, and devpi projects. 
 ![pluggy Docs]( https://pypi.org/project/pluggy/)
 
@@ -173,7 +173,7 @@ On @Cirrus it runs properly on modules:
 3. py-1.5.2
 4. pluggy-0.6.0
 
-#### Run the Regression Test
+### Run the Regression Test
 
 Perform these commands to run the regression test in the `root` directory. The test takes on average about 30 seconds to 1 minute to complete because each instance must run.
 
@@ -181,7 +181,7 @@ Perform these commands to run the regression test in the `root` directory. The t
 $ chmod +x regression.sh
 ./regression.sh
 ```
-#### Regression test mechanism
+### Regression test mechanism
 The current regression test, takes the output below from each instance: 
 1. A pgm file 
 2. A dat file
@@ -197,7 +197,7 @@ After that it filters them, so that only the numbers that are contained within t
 
 Finally it asserts them as two different variables using assertEqual(a, b) which checks that a == b ( [unittest](https://docs.python.org/3/library/unittest.html) ).
 
-#### Report
+### Report
 
 The regression test generates a report that is under `test` with the name `report.xml`. The report shows that
 the regression test is successful at the first line and prints the standard output of the executions of each instance. 
